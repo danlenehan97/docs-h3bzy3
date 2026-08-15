@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-rsotvn.nuansa138.space/sitemap.xml
